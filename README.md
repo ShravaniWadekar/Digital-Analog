@@ -7,3 +7,4 @@ The script dynamically computes rotation angles for the hour, minute, and second
 3. Seamless User Experience
 Using setInterval, the clock hands are updated every 1000 milliseconds, ensuring continuous movement and an accurate representation of the current time. The combination of JavaScript and CSS transforms provides a visually appealing, responsive clock that can be easily integrated into any webpage, enhancing the user experience by adding a functional and interactive element.
 
+https://github.com/user-attachments/assets/6b0d6036-a744-4763-9a61-7a7b583eaa45
